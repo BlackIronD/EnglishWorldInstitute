@@ -419,7 +419,6 @@ footer {
         font-size: 2.5rem;
     }
 
-    /* ===== HERE: TABLET DECORATION POSITIONS AND SIZES ===== */
     .Plane-decoration {
         width: 100%;
         transform: scale(0.35) translate(150px, -1120px);
@@ -619,7 +618,6 @@ footer {
         padding: 20px 14px;
     }
 
-    /* ===== HERE: SMALL PHONE DECORATION POSITIONS AND SIZES ===== */
     .Plane-decoration {
         width: 100%;
         transform: scale(0.25) translate(-150px, -250px);
